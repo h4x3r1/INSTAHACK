@@ -5,6 +5,6 @@ Fuc3d Tool By hr1doy 🖤🔥
 
 git clone https://github.com/h4x3r1/HaX-Clone
 
-cd Hax4Us
+cd HaX-Clone
 
 python hr1doy.py
