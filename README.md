@@ -3,8 +3,8 @@ Fuc3d Tool By hr1doy 🖤🔥
 
 #installation ¡¡
 
-git clone https://github.com/h4x3r1/HaX-Clone
+git clone https://github.com/h4x3r1/Hax4k
 
-cd HaX-Clone
+cd Hax4k
 
 python hr1doy.py
