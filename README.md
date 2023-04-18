@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F709&width=435&lines=ADVANCED+INSTAGRAM+BRUTEFORCE+ATTACK)](https://git.io/typing-svg)
+
 𝐀𝐮𝐭𝐡𝐨𝐫:
 <p align="center">
 𝐇𝐚𝐱4 / ريدوي  <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif" width="35px"></i></b></h2>
