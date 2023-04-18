@@ -9,11 +9,11 @@
 
 Installation ¡¡
 
-git clone https://github.com/h4x3r1/Hax4k
+* `git clone https://github.com/h4x3r1/Hax4k`
 
-cd Hax4k
+* `cd Hax4k`
 
-python hr1doy.py
+* `python hr1doy.py`
 
 𝐈𝐟 𝐲𝐨𝐮 𝐍𝐞𝐞𝐝 𝐓𝐡𝐞 𝐬𝐨𝐮𝐫𝐜𝐞 𝐂𝐨𝐝𝐞 𝐓𝐡𝐞𝐧 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞𝐡 ❤️‍🩹
 
