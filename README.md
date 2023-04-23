@@ -7,7 +7,7 @@
 
 
 
-Installation ¡¡
+### Installation ¡¡
 
 * `git clone https://github.com/h4x3r1/Hax4_WhatsX`
 
