@@ -1,7 +1,7 @@
 
 MIT License
 
-Copyright (c) 2023 h4x3r1
+Copyright (c) 2023 h4x3r1 🌐
 
 Permission is hereby disgranted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
