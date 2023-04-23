@@ -1,12 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F709&width=435&lines=ADVANCED+WHATSAPP+SMS+BOMBING+TOOL)](https://git.io/typing-svg)
 
-𝐀𝐮𝐭𝐡𝐨𝐫:
-<p align="center">
-𝐇𝐚𝐱4 / ريدوي  <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif" width="35px"></i></b></h2>
 
 
-
-# 𝐓𝐡𝐢𝐬 𝐭𝐨𝐨𝐥 𝐈𝐬 𝐟𝐨𝐫 𝐰𝐡𝐚𝐭𝐬𝐚𝐩𝐩 𝐬𝐦𝐬 𝐛𝐨𝐦𝐛𝐢𝐧𝐠 . 𝐍𝐨𝐰 𝐰𝐨𝐫𝐤𝐢𝐧𝐠 𝐚𝐭 𝐈𝐧𝐝𝐨𝐧𝐚𝐬𝐢𝐚 !
+𝐓𝐡𝐢𝐬 𝐭𝐨𝐨𝐥 𝐈𝐬 𝐟𝐨𝐫 𝐰𝐡𝐚𝐭𝐬𝐚𝐩𝐩 𝐬𝐦𝐬 𝐛𝐨𝐦𝐛𝐢𝐧𝐠 .
+ 𝐍𝐨𝐰 𝐰𝐨𝐫𝐤𝐢𝐧𝐠 𝐚𝐭 𝐈𝐧𝐝𝐨𝐧𝐚𝐬𝐢𝐚 ! ❤️‍🩹
 
 
 
