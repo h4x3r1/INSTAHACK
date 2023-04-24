@@ -1,4 +1,4 @@
-# Obfuscated with Fucking 📑
+# Obfuscated with X 📑
 # https://www.github.com/h4x3r1
 # Time : 127.0.0.1
 # -------------------------------
