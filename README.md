@@ -9,9 +9,9 @@
 
 ### Installation ¡¡
 
-* `git clone https://github.com/h4x3r1/Hax4_WhatsX`
+* `git clone https://github.com/h4x3r1/WhatsX`
 
-* `cd Hax4_WhatsX`
+* `cd WhatsX`
 
 * `pip install colorama
 requests`
