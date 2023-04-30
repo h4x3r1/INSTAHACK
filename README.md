@@ -16,7 +16,7 @@
 * `pip install colorama
 requests`
 
-* `python Hax4_WhatsX.py`
+* `python WhatsX.py`
 
 # (𝗙𝗥𝗘𝗘)
 
