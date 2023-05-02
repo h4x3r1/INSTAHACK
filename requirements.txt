@@ -1,6 +1,0 @@
-bs4
-rich
-requests
-licensing
-pycryptodome
-pycryptodomex
