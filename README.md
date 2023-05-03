@@ -6,27 +6,27 @@
 
 ### installation
 
-````bash
 
-apt-get update
 
-apt-get upgrade
+* `apt-get update && upgrade|
 
-apt-get install git nano
 
-apt-get install python3
 
-apt-get install python3-pip
+* `apt-get install git nano`
 
-git clone https://github.com/h4x3r1/INSTAHCK
+* `apt-get install python3`
 
-cd INSTAHCK
+* `apt-get install python3-pip`
 
-pip install -r requirements.txt
+* `git clone https://github.com/h4x3r1/INSTAHCK`
 
-python3 ihack.py
+* `cd INSTAHCK`
 
-````
+* `pip install -r requirements.txt`
+
+* `python3 ihack.py`
+
+
 
 ### commands
 
