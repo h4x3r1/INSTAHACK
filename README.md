@@ -12,7 +12,7 @@
 
 * `git clone https://github.com/h4x3r1/INSTAHACK`
 
-* `cd INSTAHCK`
+* `cd INSTAHACK`
 
 * `pip install -r requirements.txt`
 
