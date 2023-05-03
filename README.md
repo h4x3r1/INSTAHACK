@@ -8,7 +8,7 @@
 
 
 
-* `apt-get update && upgrade|
+* `apt-get update && upgrade`
 
 
 
