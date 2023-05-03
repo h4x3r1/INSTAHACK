@@ -2,21 +2,13 @@
 
 
 
+### Installation :
 
+* `apt install git nano`
 
-### installation
+* `apt install python3`
 
-
-
-* `apt-get update && upgrade`
-
-
-
-* `apt-get install git nano`
-
-* `apt-get install python3`
-
-* `apt-get install python3-pip`
+* `apt install python3-pip`
 
 * `git clone https://github.com/h4x3r1/INSTAHCK`
 
@@ -27,31 +19,15 @@
 * `python3 ihack.py`
 
 
+### Need instagram cookies ✨️
 
-### commands
-
-command for Kali Linux, Debian and Termux Android.
-
-````bash
-
-python3 ihack.py
-
-````
-
-### require instagram cookies
-
-get your instagram cookies with cookiedough extension
-
-- [install cookiedough](https://chrome.google.com/webstore/detail/cookiedough)
+𝐘𝐨𝐮 𝐜𝐚𝐧 𝐠𝐞𝐭 𝐢𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦 𝐜𝐨𝐨𝐤𝐢𝐞𝐬 𝐛𝐲 𝐰𝐚𝐭𝐜𝐡𝐢𝐧𝐠 
+𝐭𝐡𝐢𝐬 𝐭𝐮𝐫𝐨𝐭𝐢𝐚𝐥 : 
 
 
-
-
-
-- added new bruteforce methods
 
 ### contributes
 
 - code by [@iqbalmh18](https://instagram.com/iqbalmh18)
 
-- obfuscated by [@hr1d0y](https://github.com/h4x3r1)
+- obfuscated by [هريدي](https://github.com/h4x3r1)
