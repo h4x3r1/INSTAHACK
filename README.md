@@ -2,7 +2,7 @@
 
 
 
-<img src="https://raw.hubusercontent.com/termuxhackers-id/instahack/main/data/user/v1.0.6.png">
+
 
 ### installation
 
