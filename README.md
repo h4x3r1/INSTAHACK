@@ -18,7 +18,7 @@
 
 * `python3 ihack.py`
 
-### Then Type `free`
+### Then type `free`
 
 ### Need instagram cookies ✨️
 
