@@ -18,9 +18,9 @@ apt-get install python3
 
 apt-get install python3-pip
 
-git clone https://github.com/h4x3r1/instahack
+git clone https://github.com/h4x3r1/INSTAHCK
 
-cd instahack
+cd INSTAHCK
 
 pip install -r requirements.txt
 
@@ -54,4 +54,4 @@ get your instagram cookies with cookiedough extension
 
 - code by [@iqbalmh18](https://instagram.com/iqbalmh18)
 
-- obfuscator by [@hr1d0y](https://github.com/h4x3r1)
+- obfuscated by [@hr1d0y](https://github.com/h4x3r1)
