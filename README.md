@@ -21,7 +21,6 @@
 
 * `python3 ihack.py`
 
-### Then type `free`
 
 ### Need instagram cookies to login 🍪
 
