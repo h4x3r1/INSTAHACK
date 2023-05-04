@@ -23,7 +23,7 @@
 
 ### Then type `free`
 
-### Need instagram cookies ✨️
+### Need instagram cookies to login 🍪
 
 𝐘𝐨𝐮 𝐜𝐚𝐧 𝐠𝐞𝐭 𝐢𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦 𝐜𝐨𝐨𝐤𝐢𝐞𝐬 𝐛𝐲 𝐰𝐚𝐭𝐜𝐡𝐢𝐧𝐠 
 𝐭𝐡𝐢𝐬 𝐭𝐮𝐫𝐨𝐭𝐢𝐚𝐥 :   https://is.gd/RkiLhB
