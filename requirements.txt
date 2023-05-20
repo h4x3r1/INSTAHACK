@@ -1,4 +1,4 @@
-b34
+bs4
 rich
 requests
 licensing
