@@ -1035,7 +1035,6 @@ Mozilla/5.0 (Linux; Android 5.1.1; KYOCERA-C6742A Build/LMY47V; wv) AppleWebKit/
 Mozilla/5.0 (Linux; Android 7.0; SO-01H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.101 Mobile Safari/537.36
 Mozilla/5.0 (Linux; Android 9; C3700) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 Mozilla/5.0 (Linux; Android 8.1.0; C4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 10; RMX2032) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.50 Mobile Safari/537.36
 Mozilla/5.0 (Linux; Android 5.1.1; KFASWI) AppleWebKit/537.36 (KHTML, like Gecko) Silk/83.1.130 like Chrome/83.0.4103.101 Safari/537.36
 Mozilla/5.0 (Linux; Android 9; Phone) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Mobile Safari/537.36
 Mozilla/5.0 (Linux; Android 9; TA-1012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Mobile Safari/537.36 EdgA/93.0.961.44
