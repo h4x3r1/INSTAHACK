@@ -1,5 +1,5 @@
 ### rest directories
-contains all bruteforce results
+There is your all bruteforce results
 #
 ```ok-date.txt``` authenticated results
 #
