@@ -1,26 +1,27 @@
 ### INSTAHACK
-𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐢𝐧𝐠 𝐭𝐡𝐞 𝐦𝐨𝐬𝐭 𝐚𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐢𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦 𝐚𝐜𝐜𝐨𝐮𝐧𝐭 𝐜𝐥𝐨𝐧𝐧𝐢𝐧𝐠 𝐭𝐨𝐨𝐥 𝐨𝐧 𝐆𝐢𝐭𝐡𝐮𝐛 !
+𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐢𝐧𝐠 𝐭𝐡𝐞 𝐦𝐨𝐬𝐭 𝐚𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐢𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦 𝐚𝐜𝐜𝐨𝐮𝐧𝐭 𝐜𝐥𝐨𝐧𝐧𝐢𝐧𝐠 𝐭𝐨𝐨𝐥 𝐨𝐧 𝐆𝐢𝐭𝐡𝐮𝐛.
+
+`𝚂𝚂𝙻 𝚋𝚢𝚙𝚊𝚜𝚜 𝚙𝚒𝚗𝚗𝚒𝚗𝚐 𝚠𝚒𝚝𝚑 𝚙𝚛𝚘𝚡𝚢 𝚛𝚘𝚝𝚊𝚝𝚘𝚛`
 
 ![Picsart_23-05-20_17-38-17-165](https://github.com/h4x3r1/INSTAHACK/assets/92029487/bf5289dc-896e-47cb-9273-c2573953bb97)
 
 
 ### Installation :
 
-* `apt install git nano`
+`apt install python3`
 
-* `apt install python3`
+`apt install python3-pip`
 
-* `apt install python3-pip`
+`git clone https://github.com/h4x3r1/INSTAHACK`
 
-* `git clone https://github.com/h4x3r1/INSTAHACK`
+`cd INSTAHACK`
 
-* `cd INSTAHACK`
+`pip install -r requirements.txt`
 
-* `pip install -r requirements.txt`
+`python3 ihack.py`
 
-* `python3 ihack.py`
-
-* `free` / `premium`
+#### Then Type
+`free` / `premium`
 
 
 ### watch video to get cookies
@@ -28,7 +29,6 @@
  𝐓𝐮𝐭𝐨𝐫𝐢𝐚𝐥 : [click here](https://youtu.be/UwJ4be2PzNo)
 
 
-### Need instagram cookies to use this tool.
 
 
 ### contributes
