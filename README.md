@@ -1,7 +1,9 @@
 ### INSTAHACK
 𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐢𝐧𝐠 𝐭𝐡𝐞 𝐦𝐨𝐬𝐭 𝐚𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐢𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦 𝐚𝐜𝐜𝐨𝐮𝐧𝐭 𝐜𝐥𝐨𝐧𝐧𝐢𝐧𝐠 𝐭𝐨𝐨𝐥 𝐨𝐧 𝐆𝐢𝐭𝐡𝐮𝐛.
 
-`𝚂𝚂𝙻 𝚋𝚢𝚙𝚊𝚜𝚜 𝚙𝚒𝚗𝚗𝚒𝚗𝚐 𝚠𝚒𝚝𝚑 𝚙𝚛𝚘𝚡𝚢 𝚛𝚘𝚝𝚊𝚝𝚘𝚛`
+```python
+ssl bypass pinning with proxy rotator
+```
 
 ![Picsart_23-05-20_17-38-17-165](https://github.com/h4x3r1/INSTAHACK/assets/92029487/bf5289dc-896e-47cb-9273-c2573953bb97)
 
@@ -23,6 +25,9 @@
 #### Then Type
 `free` / `premium`
 
+```python
+Added new bruteforce method at Free
+```
 
 ### watch video to get cookies
 
