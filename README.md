@@ -14,7 +14,7 @@ apt install python3
 
 apt install python3-pip
 
-git clone https://github.com/h4x3r1/INSTAHACK`
+git clone https://github.com/h4x3r1/INSTAHACK
 
 cd INSTAHACK
 
