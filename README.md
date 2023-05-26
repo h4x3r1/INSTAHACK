@@ -9,19 +9,19 @@ ssl bypass pinning with proxy rotator
 
 
 ### Installation :
+```python
+apt install python3
 
-`apt install python3`
+apt install python3-pip
 
-`apt install python3-pip`
+git clone https://github.com/h4x3r1/INSTAHACK`
 
-`git clone https://github.com/h4x3r1/INSTAHACK`
+cd INSTAHACK
 
-`cd INSTAHACK`
+pip install -r requirements.txt
 
-`pip install -r requirements.txt`
-
-`python3 ihack.py`
-
+python3 ihack.py
+```
 #### Then Type
 `free` / `premium`
 
