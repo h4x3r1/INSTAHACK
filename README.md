@@ -20,7 +20,7 @@ pip install -r requirements.txt
 
 python3 ihack.py
 ```
-#### Then Type
+##### Then Type
 `free` / `premium`
 
 ```python
