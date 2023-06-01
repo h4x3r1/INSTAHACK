@@ -24,7 +24,7 @@ python3 ihack.py
 `free` / `premium`
 
 ```python
-Added new bruteforce method at Free
+    working for a big update
 ```
 
 ### watch video to get cookies
