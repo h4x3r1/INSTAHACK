@@ -21,11 +21,8 @@ pip install -r requirements.txt
 python3 ihack.py
 ```
 ##### Then Type
-`free` / `premium`
 
-```python
-    working for a big update
-```
+`free`  </>  `premium`
 
 ### watch video to get cookies
 
