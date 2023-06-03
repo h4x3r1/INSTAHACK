@@ -22,7 +22,7 @@ python3 ihack.py
 ```
 ##### Then Type
 
-`free`  </>  `premium`
+`free`  /  `premium`
 
 ### watch video to get cookies
 
