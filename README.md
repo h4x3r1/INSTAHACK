@@ -1,4 +1,4 @@
-**An advanced Instagram account clonning tool with ssl pinning and proxy rotator.**
+**Instagram account clonning tool with ssl pinning bypass and proxy rotator.**
 
 ### INSTAHACK
 
