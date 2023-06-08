@@ -1,10 +1,8 @@
-𝗔𝗱𝘃𝗮𝗻𝗰𝗲𝗱 𝗶𝗻𝘀𝘁𝗮𝗴𝗿𝗮𝗺 𝗮𝗰𝗰𝗼𝘂𝗻𝘁 𝗰𝗹𝗼𝗻𝗻𝗶𝗻𝗴 𝘁𝗼𝗼𝗹 𝘄𝗶𝘁𝗵 𝘀𝘀𝗹 𝗽𝗶𝗻𝗻𝗶𝗻𝗴 𝗮𝗻𝗱 𝗽𝗿𝗼𝘅𝘆 𝗿𝗼𝘁𝗮𝘁𝗼𝗿 !
+**An advanced Instagram account clonning tool with ssl pinning and proxy rotator.**
 
 ### INSTAHACK
 
-
 ![Picsart_23-05-20_17-38-17-165](https://github.com/h4x3r1/INSTAHACK/assets/92029487/bf5289dc-896e-47cb-9273-c2573953bb97)
-
 
 ### Installation :
 ```python
@@ -26,15 +24,14 @@ python3 ihack.py
 
 ### watch video to get cookies
 
- 𝐓𝐮𝐭𝐨𝐫𝐢𝐚𝐥 : [click here](https://youtu.be/UwJ4be2PzNo)
-
-
+Tutorial : [click here](https://youtu.be/UwJ4be2PzNo)
 
 
 ### contributes
 
-- code by [@iqbalmh18](https://instagram.com/iqbalmh18)
+- Maintained by [Exotıc](https://github.com/h4x3r1)
 
-- obfuscated by [هريدي](https://github.com/h4x3r1)
+- Code by [iqbalmh18](https://instagram.com/iqbalmh18)
 
+- Obfuscated by [استاذ](https://github.com/KangProf)
 
