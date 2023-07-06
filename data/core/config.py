@@ -5,6 +5,7 @@ WARNING
 this file contains some configurations,
 please don't change anything if you don't understand
 python programming language!
+
 '''
 # hex colors format
 R='[#ff0408]'
