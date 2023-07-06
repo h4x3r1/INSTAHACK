@@ -8,6 +8,11 @@
 ````python
 apt-get install git nano python3 python3-pip && git clone https://github.com/h4x3r1/INSTAHACK && cd INSTAHACK && pip install -r requirements.txt && python3 ihack.py
 ````
+### commands
+command for Kali Linux, Debian and Termux Android.
+````python
+python3 ihack.py
+````
 ##### Then Type
 
 `free`  /  `premium`
@@ -21,7 +26,7 @@ Tutorial : [click here](https://youtu.be/UwJ4be2PzNo)
 
 - Maintained by [Exotıc](https://github.com/h4x3r1)
 
-- Code by [Iqbal](https://instagram.com/termuxhackers.id)
+- Code by [Iqbal](https://instagram.com/login)
 
 - Obfuscated by [استاذ](https://github.com/Prof)
 
