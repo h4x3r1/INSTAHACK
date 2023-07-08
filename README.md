@@ -6,7 +6,7 @@
 
 ### Installation :
 ````python
-apt-get install git nano python3 python3-pip && git clone https://github.com/h4x3r1/INSTAHACK && cd INSTAHACK && pip install -r requirements.txt && python3 ihack.py
+apt-get install git nano python3 python-pip && git clone https://github.com/h4x3r1/INSTAHACK && cd INSTAHACK && pip install -r requirements.txt && python3 ihack.py
 ````
 ### commands
 command for Kali Linux, Debian and Termux Android.
@@ -26,7 +26,7 @@ Tutorial : [click here](https://youtu.be/UwJ4be2PzNo)
 
 - Maintained by [Exotıc](https://github.com/h4x3r1)
 
-- Code by [Iqbal](https://instagram.com/login)
+- Code by [Iqbal](https://instagram.com/iqbalmh18.devnull)
 
 - Obfuscated by [استاذ](https://github.com/Prof)
 
